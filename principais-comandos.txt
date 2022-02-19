@@ -1,0 +1,7 @@
+Principais comandos usados na atividade 1 - Versionamento
+
+git init 
+
+git status
+
+git add 
